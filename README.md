@@ -5,17 +5,17 @@ This is a project task from the Audit Course on Web Development provided by Vidy
 Need a suitable version of web browser Chrome, Safari or Firefox to run the website.
 
 # How to Run
-Run the website by opening the index.html file in tye folder which will direct you to the clone page of the Kids Galaxy
+Run the website by opening the index.html file in the folder which will direct you to the clone page of the Kids Galaxy
 
 # Images and  Objects Used 
 
 For the Social media Icons 
-<li>
-<o>Material UI designs have been used</o>
-<o>Kids Galaxy Logo</o>
-<o>Objects.svg</o>
-<o>triangle.svg</o>
-</li>
+<ol>
+ <li>Material UI designs have been used</li>
+<li>Kids Galaxy Logo</li>
+<li>Objects.svg</li>
+<li>triangle.svg</li>
+</ol>
   
 # Screenshots:
 
